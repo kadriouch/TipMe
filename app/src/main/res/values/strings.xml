@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TipMe</string>
+    <string name="base_label">Base</string>
+    <string name="tip_percent_label">24%</string>
+    <string name="tip_label">Tip</string>
+    <string name="total_label">Total</string>
+    <string name="tip_percent_format">%d%%</string>
+</resources>
